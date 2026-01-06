@@ -1,0 +1,65 @@
+body {
+  --color-cyan-300: #8FE3F9;
+  --color-cyan-600: #4D96A9;
+  --color-purple-600: #855FB1;
+  --color-purple-300: #D9B8FF;
+  --color-white: #FAFAFA;
+  --color-slate-900: #28283D;
+  --color-slate-600: #87879D;
+  --color-slate-300: #D1D1DF;
+}
+
+.text-preset-1 {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 64px;
+  line-height: 1.1rem;
+  letter-spacing: 0;
+  color: var(--color-slate-900);
+}
+
+.text-preset-2 {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 40px;
+  line-height: 1.1rem;
+  letter-spacing: 0;
+  color: var(--color-slate-900);
+}
+
+.text-preset-3 {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.1rem;
+  letter-spacing: 4px;
+  color: var(--color-cyan-600);
+}
+
+.text-preset-4 {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.1rem;
+  letter-spacing: 0;
+  color: var(--color-slate-600);
+}
+
+.text-preset-5 {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.5rem;
+  letter-spacing: 0;
+  color: var(--color-slate-900);
+}
